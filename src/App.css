@@ -281,7 +281,7 @@ section h2 {
   width: 300px;
   height: 300px;
   border-radius: 50%;
-  background-image: url('/Users/saketmaheshwari/Portfolio/image.png'); /* Path is relative to 'public' */
+  background-image: url('/Users/saketmaheshwari/Portfolio/my-app/public/image.png'); /* Path is relative to 'public' */
   background-size: cover;
   background-position: center;
   display: flex;
